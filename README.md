@@ -1,4 +1,10 @@
-### Hi there 👋
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+
+### Hello !👋 I'm Mathieu
+
+A FullStack Developer from France.
+
+ 
 
 <!--
 **MathieuFigari/MathieuFigari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</div>
