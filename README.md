@@ -14,7 +14,7 @@
  
  - I am currently on a work-study program for 16 months.
  
- <div>- you can visit my portfolio <a href="https://www.mathieufigari.com/"><div>Here<div></a></div>
+ - you can visit my portfolio <a href="https://www.mathieufigari.com/"><div>Here</div></a>
 
   
   </div>
