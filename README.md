@@ -1,10 +1,14 @@
+
+###
 <div style="background-color:#22272e; text-align:center; vertical-align: middle; padding:40px 0;">
 
-### Hello !👋 I'm Mathieu
+Hello !👋 I'm Mathieu
 
 A FullStack Developer from France.
 
- <a href="https://www.mathieufigari.com/">PortFolio</a>
+ <div><a href="https://www.mathieufigari.com/">PortFolio</a><div> 
+  
+  </div>
  
 
 <!--
@@ -23,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 
-</div>
+
