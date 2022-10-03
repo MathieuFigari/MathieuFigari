@@ -4,9 +4,15 @@
 <h1> Hello Everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='left'>
 
-A FullStack Developer from France.
+</p>
+<div size='20px'> Hi! My name is Mathieu. Welcome to my github profile  
+</div>
+ 
+ <h2> About Me </h2>
+ 
+ - you can visit my portfolio <a href="https://www.mathieufigari.com/"><div>Here<div></a>
 
- <div><a href="https://www.mathieufigari.com/">PortFolio</a><div> 
+ 
   
   </div>
  
